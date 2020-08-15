@@ -22,10 +22,6 @@
   <img align="left" alt="Carmelo Sammarco | stackoverflow" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/stack.png"/>
 </a>
 
-<a href="https://carmelosammarco.com">
-  <img align="right" alt="Carmelo Sammarco | Sicilian4ever" width="150px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
-</a>
-
 <br />
 <br />
 
@@ -38,10 +34,6 @@
 <a href="https://github.com/carmelosammarco/carmelosammarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelosammarco&theme=default&show_icons=true&count_private=true" alt="Carmelo's GitHub Stats" />
 </a>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=carmelosammarco&theme=default&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco)
 
 **Languages and Tools(not exhaustive):**  
 
