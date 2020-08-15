@@ -36,7 +36,7 @@
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/jup.png"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/scripting.png"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/Vscode.png"></code>
-<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/htlm.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/html.png"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/css.png"></code>
-<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/js.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/js.jpg"></code>
 
