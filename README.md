@@ -29,7 +29,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco)
 
-**Languages and Tools:**  
+**Languages and Tools(not exhaustive):**  
 
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/python.jpg"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/Anaconda.png"></code>
