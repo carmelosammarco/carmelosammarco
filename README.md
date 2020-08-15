@@ -55,11 +55,7 @@
 
 ---
 
-<br />
-<br />
-
 Contributions are welcomed! <3
 
 [![paypal.me/carmelosammarco](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/paypal.png)](https://paypal.me/carmelosammarco) - You can make donations via PayPal. 
-
 ---
