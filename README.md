@@ -46,6 +46,12 @@
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/bootstrap.png"></code>
 
 ---
+**Personal website** 
+
+<a href="https://carmelosammarco.com">
+  <img align="left" alt="Carmelo Sammarco | Sicilian4ever" width="150px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
+</a>
+---
 
 Contributions are welcomed! <3
 
