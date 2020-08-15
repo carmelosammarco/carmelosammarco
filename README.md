@@ -29,10 +29,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco)
 
-
-<br />
-<br />
-
 **Languages and Tools:**  
 
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"></code>
