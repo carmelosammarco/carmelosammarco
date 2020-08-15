@@ -6,16 +6,16 @@
   <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
 </a>
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
+<a href="https://scholar.google.com/citations?user=47zLDEcAAAAJ&hl=en">
+  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/googlescholar.jpg"/>
 </a>
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
+<a href="https://https://www.reddit.com/user/CarmeloSammarco">
+  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/reddit.png"/>
 </a>
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
+<a href="https://stackoverflow.com/users/10477232/carmelo-sammarco?tab=profile">
+  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/stack.png"/>
 </a>
 
 <br />
