@@ -4,7 +4,7 @@
   <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
 </a>
 <a href="https://carmelosammarco.com">
-  <img align="right" alt="Carmelo Sammarco | Sicilian4ever" width="100px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
+  <img align="right" alt="Carmelo Sammarco | Sicilian4ever" width="200px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
 </a>
 
 <br />
