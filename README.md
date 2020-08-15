@@ -45,4 +45,4 @@
 
 Contributions are welcomed! <3
 
-[![paypal.me/carmelosammarco](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/python.jpg)](https://paypal.me/carmelosammarco) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+[![paypal.me/carmelosammarco](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/paypal.png)](https://paypal.me/carmelosammarco) - You can make donations via PayPal. 
