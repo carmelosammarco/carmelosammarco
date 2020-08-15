@@ -45,6 +45,7 @@
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/js.jpg"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/bootstrap.png"></code>
 
+---
 **Personal website** 
 
 <a href="https://carmelosammarco.com">
@@ -53,8 +54,6 @@
 
 <br />
 <br />
-
----
 
 Contributions are welcomed! <3
 
