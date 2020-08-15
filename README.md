@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Carmelo Sammarco!
+### Hi there 👋, I'm Carmelo Sammarco,
 
 ##### I do (mostly) programming (mainly Python, C-shell/Bash scripting, AWK, GMT, SAC, CPS, Javascript, NCO, CDO but many more can be added..) both front-end and back-end. I write scripts/software mainly for data manipulation/analysis/download, design/create customisable scientific procedures to  increase productivity in industry or research. I can also create from scratch simple but very functional web pages using HTML, CSS, Javascript and bootstrap. I am always in a constant personal development and really looking forward to hear from you for any kind of help that I could give or any proposal of collaboration.
 
@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://carmelosammarco.com">
-  <img align="right" alt="Carmelo Sammarco | Sicilian4ever" width="200px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
+  <img align="center" alt="Carmelo Sammarco | Sicilian4ever" width="200px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
 </a>
 
 <br />
