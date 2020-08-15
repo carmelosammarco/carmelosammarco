@@ -18,11 +18,6 @@
   <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
 </a>
 
-<br />
-<br />
-<br />
-<br />
-
 <a href="https://carmelosammarco.com">
   <img align="left" alt="Carmelo Sammarco | Sicilian4ever" width="150px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
 </a>
