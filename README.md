@@ -51,8 +51,13 @@
 <a href="https://carmelosammarco.com">
   <img align="left" alt="Carmelo Sammarco | Sicilian4ever" width="150px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
 </a>
+
+<br />
+
 ---
 
 Contributions are welcomed! <3
 
 [![paypal.me/carmelosammarco](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/paypal.png)](https://paypal.me/carmelosammarco) - You can make donations via PayPal. 
+
+---
