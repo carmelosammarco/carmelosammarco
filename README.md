@@ -22,17 +22,16 @@
 <br />
 
 <a href="https://carmelosammarco.com">
-  <img align="left" alt="Carmelo Sammarco | Sicilian4ever" width="150px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
+  <img align="left" alt="Carmelo Sammarco | Sicilian4ever" width="100px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/website.png"/>
 </a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=carmelosammarco&theme=default&show_icons=true&count_private=true)
 
-<br />
-<br />
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco)
 
 
+<br />
+<br />
 
 **Languages and Tools:**  
 
