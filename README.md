@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/banner.jpg)
+![Hello 👋🏻](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/banner.jpg)
 
 ### Hi there 👋, I'm Carmelo Sammarco,
 
