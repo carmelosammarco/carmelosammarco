@@ -34,4 +34,9 @@
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/python.jpg"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/Anaconda.png"></code>
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/jup.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/scripting.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/Vscode.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/htlm.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/css.png"></code>
+<code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/js.png"></code>
 
