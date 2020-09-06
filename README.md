@@ -30,10 +30,6 @@
 </a>
 
 <a href="https://github.com/carmelosammarco/carmelosammarco">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco" />
-</a>
-
-<a href="https://github.com/carmelosammarco/carmelosammarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelosammarco&theme=default&show_icons=true&count_private=true" alt="Carmelo's GitHub Stats" />
 </a>
 
