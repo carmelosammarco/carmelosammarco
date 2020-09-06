@@ -4,22 +4,25 @@
 
 ##### I do (mostly) programming (mainly Python, C-shell/Bash scripting, AWK, GMT, SAC, CPS, Javascript, NCO, CDO but many more can be added..) both front-end and back-end. I write scripts/software mainly for data manipulation/analysis/download, design/create customisable scientific procedures to  increase productivity in industry or research. I can also create from scratch simple but very functional web pages using HTML, CSS, Javascript and bootstrap. I am always in a constant personal development and really looking forward to hear from you for any kind of help that I could give or any proposal of collaboration.
 
+
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-  <img align="left" alt="Carmelo Sammarco | Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
+  <img align="left" alt="Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
 </a>
 
 <a href="https://scholar.google.com/citations?user=47zLDEcAAAAJ&hl=en">
-  <img align="left" alt="Carmelo Sammarco | googlescholar" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/googlescholar.jpg"/>
+  <img align="left" alt="googlescholar" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/googlescholar.jpg"/>
 </a>
 
 <a href="https://https://www.reddit.com/user/CarmeloSammarco">
-  <img align="left" alt="Carmelo Sammarco | reddit" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/reddit.png"/>
+  <img align="left" alt="reddit" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/reddit.png"/>
 </a>
 
 <a href="https://stackoverflow.com/users/10477232/carmelo-sammarco?tab=profile">
-  <img align="left" alt="Carmelo Sammarco | stackoverflow" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/stack.png"/>
+  <img align="left" alt="stackoverflow" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/stack.png"/>
 </a>
 
+<br />
+<br />
 <br />
 <br />
 
@@ -28,6 +31,9 @@
 <a href="https://github.com/carmelosammarco/carmelosammarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco" />
 </a>
+
+<br />
+<br />
 
 <a href="https://github.com/carmelosammarco/carmelosammarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelosammarco&theme=default&show_icons=true&count_private=true" alt="Carmelo's GitHub Stats" />
