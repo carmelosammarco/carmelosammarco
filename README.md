@@ -32,12 +32,12 @@
 </a>
 
 
-
 <a href="https://github.com/carmelosammarco/carmelosammarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelosammarco&theme=default&show_icons=true&count_private=true" alt="Carmelo's GitHub Stats" />
 </a>
 
 ---
+
 **Languages and Tools(not exhaustive):**  
 
 <code><img height="40" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/python.jpg"></code>
