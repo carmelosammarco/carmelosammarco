@@ -26,7 +26,7 @@
 <br />
 <br />
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; GitHub Stats
 <a href="https://github.com/carmelosammarco/carmelosammarco">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmelosammarco" />
 </a>
