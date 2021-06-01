@@ -2,7 +2,11 @@
 
 ### Hi 👋, I'm Carmelo Sammarco,
 
-##### I do (mostly) programming (mainly Python, C-shell/Bash scripting, AWK, GMT, SAC, CPS, Javascript, NCO, CDO but many more can be added..) both front-end and back-end. I write scripts/software mainly for data manipulation/analysis/download, design/create customisable scientific procedures to  increase productivity in industry or research and between many interstest and technologies I am a Docker passionate. I can also create from scratch simple but very functional web pages using HTML, CSS, Javascript and bootstrap. I am always in a constant personal development and really looking forward to hear from you for any kind of help that I could give or any proposal of collaboration.
+##### I like share my theoretical/practical knowledges  acquired during my degrees, job experiences, free-time and more generally in all my entire life. I like solve problems to others but especially I like to develop new  projects/ideas and invest my time to any sort of collaboration. 
+
+##### I do (mostly) programming (mainly Python, C-shell/Bash scripting, AWK, GMT, SAC, CPS, Javascript, NCO, CDO but many more can be added..) both front-end and back-end. I write scripts/software mainly for data manipulation/analysis/download, design/create customisable scientific procedures to increase productivity in industry or research. 
+
+##### I am always in a constant personal development and I like to explore new fields to challenge myself.
 
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
   <img align="left" alt="Linked-in" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/linkedin.png"/>
