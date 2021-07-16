@@ -18,10 +18,6 @@
   <img align="left" alt="googlescholar" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/googlescholar.jpg"/>
 </a>
 
-<a href="https://https://www.reddit.com/user/CarmeloSammarco">
-  <img align="left" alt="reddit" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/reddit.png"/>
-</a>
-
 <a href="https://stackoverflow.com/users/10477232/carmelo-sammarco?tab=profile">
   <img align="left" alt="stackoverflow" width="40px" src="https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/stack.png"/>
 </a>
