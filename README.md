@@ -4,9 +4,7 @@
 
 ### Hi 👋, I'm Carmelo Sammarco,
 
-##### I like share my theoretical/practical knowledges  acquired during my degrees, job experiences, free-time and more generally in all my entire life. I like solve problems to others but especially I like to develop new  projects/ideas and invest my time to any sort of collaboration. 
-
-##### I do (mostly) programming (mainly Python, C-shell/Bash scripting, AWK, GMT, SAC, CPS, Javascript, NCO, CDO but many more can be added..) both front-end and back-end. I write scripts/software mainly for data manipulation/analysis/download, design/create customisable scientific procedures to increase productivity in industry or research. 
+##### I like share my theoretical/practical knowledges  acquired during my degrees, job experiences, free-time and more generally in all my entire life. I like solve problems to others but especially I like to develop new  projects/ideas and invest my time to any sort of collaboration.  
 
 ##### I am always in a constant personal development and I like to explore new fields to challenge myself.
 
