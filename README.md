@@ -1,5 +1,3 @@
-[![Gitter](https://badges.gitter.im/carmelosammarco/community.svg)](https://gitter.im/carmelosammarco/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 ![Hello 👋🏻](https://github.com/carmelosammarco/carmelosammarco/blob/master/Assets/ban.jpg)
 
 ### Hi 👋, I'm Carmelo Sammarco,
